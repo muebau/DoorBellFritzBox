@@ -22,4 +22,4 @@ GPIO16 with internal pullup and PC814 to GND
 Jumper from GPIO16 to RESET (not used)
 
 Circuit diagram:
-![circuit diagram](../main/circuit.png)
+![](../main/circuit.png)
