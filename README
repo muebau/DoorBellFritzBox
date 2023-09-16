@@ -20,6 +20,3 @@ Wemos D1 Mini ESP32
 PC814 with 820 Ohm
 GPIO16 with internal pullup and PC814 to GND
 Jumper from GPIO16 to RESET (not used)
-
-Circuit diagram:
-![](../main/circuit.png)
